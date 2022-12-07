@@ -3,7 +3,8 @@ local player = game.Players.LocalPlayer
 local White = {
     "RobinConway9",
     "KostyaTasher",
-    "Her0brine404"
+    "Her0brine404",
+    "emo_piks"
  
 
 }
